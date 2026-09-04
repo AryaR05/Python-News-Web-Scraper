@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# VS Code
+.vscode/
+
+# system files
+.DB_Store
+Thumbs.db
+
+# Logs
+*.log
